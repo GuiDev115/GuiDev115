@@ -42,14 +42,14 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/guidev115)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/guidev115)
 
+## My progress on the 100 days of code
 
 </br>
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=guidev115">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=guidev115" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>
 
-<p align="center">
-  <a href="https://github.com/guidev115">
-    <img src="https://komarev.com/ghpvc/?username=guidev115&color=blue&style=flat)" />
-  </a>
-</p>
+</br>
 
 <details>
 <p align="center">
