@@ -1,6 +1,6 @@
-### Yo Devs, I'm Guilherme Fabricio ✨
+## Yo Devs, I'm Guilherme Fabricio ✨
 
-## About Me
+### About Me
 <img align="right" src="https://github.com/GuiDev115/GuiDev115/blob/main/TLoZ_Series_Triforce_Artwork.png?raw=true" height="300"/>
 
 - 💻 Web Developer
