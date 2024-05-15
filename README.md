@@ -28,4 +28,8 @@
 - Twitter: https://twitter.com/guidev115 🐦
 - Email: guillerme.fabricio.115@gmail.com ✉️
 
+### Artigos no Devto
+
+[Linguagens Formais: A União com Linguagens e Computação](https://dev.to/guidev115/linguagens-formais-a-uniao-com-linguagens-e-computacao-30d5)
+
 ![](https://komarev.com/ghpvc/?username=guidev115)
