@@ -18,9 +18,10 @@
 
 </div>
 
-### Personal Websiite/Blog
+### Personal Website/Blog
 
-- https://guidev.tech :technologist:
+- [Personal Site] https://guidev.tech :technologist:
+- [Blog] WIP
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/guidev115)
