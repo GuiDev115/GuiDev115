@@ -8,6 +8,11 @@
 - 📚 Computer Science at UFLA (Lavras- MG)
 - 💚 I Love Zelda too.
 
+### Personal Website/Blog
+
+- [Personal Site] https://guidev.tech :technologist:
+- [Blog] WIP
+
 ### Main Skills
 
 <div aling="cente">
@@ -17,11 +22,6 @@
 <a href="https://www.mysql.com/"><img  align="center" src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" alt="MySQL"></a>
 
 </div>
-
-### Personal Website/Blog
-
-- [Personal Site] https://guidev.tech :technologist:
-- [Blog] WIP
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/guidev115)
