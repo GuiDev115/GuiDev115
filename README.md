@@ -7,6 +7,7 @@
 - 💜 Member of [He4rt](https://github.com/he4rt)
 - 📚 Computer Science at UFLA (Lavras- MG)
 - 💚 I Love Zelda too.
+- 📚 **Current learning:** Compilers, computer theory and Web  
 
 ### Personal Website/Blog
 
