@@ -11,7 +11,7 @@
 
 ### Personal Website/Blog
 
-- [Personal Site] https://guidev.tech :technologist:
+- [Personal Site] :technologist:
 - [Blog] WIP
 
 ### Main Skills
